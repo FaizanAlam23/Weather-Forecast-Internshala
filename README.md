@@ -2,7 +2,8 @@
 
 This is a weather application that fetches and displays current weather data and a 5-day extended forecast for a specified city. It also shows recent search suggestions when the user starts typing in the search bar. The recent searches are stored in localStorage.
 
-Github Link - https://github.com/FaizanAlam23/Weather-Forecast-Internshala/
+## Github Link - https://github.com/FaizanAlam23/Weather-Forecast-Internshala/
+
 ## Features
 
 1. Fetch current weather data by city name
